@@ -3,7 +3,6 @@ layout: post
 title: Awesome Arweave 🐘
 description: A curated list of awesome resources related to the Arweave
 summary: A curated list of awesome resources related to the Arweave
-tags: [awesome,web3]
 ---
 
 ![Arweave](https://raw.githubusercontent.com/bitruss/awesome-arweave/main/arweave.png)
