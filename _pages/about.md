@@ -5,26 +5,9 @@ title: About
 
 ![](ailurus.jpg)
 
-bitruss is a crypto developer advocate.
+DevRel @[Meson Network](https://meson.network/)
 
-### Features
+### Contact
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![](ailurus.jpg)
+- Email: [bitruss@protonmail.com](bitruss@protonmail.com)
+- Twitter: [@bitruss_](https://twitter.com/bitruss_)
