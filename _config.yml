@@ -1,7 +1,7 @@
-site: Bitruss
+site: bitruss
 url: #yoururl
-title: Bitruss
-description: Simple and minimalistic jekyll blogging theme.
+title: bitruss
+description: crypto developer advocate
 twitter:
   username: #yourusername
   card: summary

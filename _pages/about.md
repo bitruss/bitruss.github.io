@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+![](ailurus.jpg)
+
+bitruss is a crypto developer advocate.
 
 ### Features
 
@@ -25,4 +27,4 @@ Sidey is a simple and minimalistic jekyll blogging theme.
 
 ### Screenshot
 
-![Screenshot](screenshot.png)
+![](ailurus.jpg)
